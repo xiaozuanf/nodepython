@@ -1,0 +1,19 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "splider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "cheerio": "^1.0.0-rc.10",
+    "node-schedule": "^2.1.0",
+    "nodemailer": "^6.7.2",
+    "path": "^0.12.7",
+    "superagent": "^7.1.1"
+  }
+}
